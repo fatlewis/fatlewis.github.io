@@ -1,0 +1,9 @@
+[
+	{ "name": "Git" },
+	{ "name": "JIRA" },
+	{ "name": "Agile Development" },
+	{ "name": "NPM / Yarn" },
+	{ "name": "Node" },
+	{ "name": "Linux OS / Bash" },
+	{ "name": "Windows / WSL / Powershell" }
+]

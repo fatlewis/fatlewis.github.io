@@ -1,0 +1,48 @@
+[
+	{
+		"organisation": "Adarga Limited",
+		"start": "August 2023",
+		"end": "Present",
+		"title": "Senior Software Engineer",
+		"location": "London, UK (Remote)",
+		"description": "Adarga are a software company which specialise in AI solutions for intelligence organisations. My primary role involves the development of React Front-End UIs for new and existing tools.",
+		"logo_image": "../images/logos/adarga_logo.png",
+		"logo_bg_color": "base-100"
+	},
+	{
+		"organisation": "Gresham Technologies",
+		"start": "August 2017",
+		"end": "August 2023",
+		"title": "Software Engineer",
+		"location": "Bristol, UK",
+		"description": "Gresham Technologies provide a variety of software products for financial firms. I designed, estimated and implemented new features, refactoring and improving existing code when necessary. The primary languages I used were JavaScript (TypeScript & React) and GraphQL. I also used Java (Spring), Clojure, and SQL (MYSQL, Oracle, MSSQL) in this role.",
+		"logo_image": "../images/logos/gresham_logo.png"
+	},
+	{
+		"organisation": "Jeppesen UK",
+		"start": "June 2014",
+		"end": "June 2017",
+		"title": "Software Engineer",
+		"location": "Bristol, UK",
+		"description": "Jeppesen UK (a subsidiary of Boeing) are an aviation company, the digital portion of which provides tools for aviation clients. My role within the team was to develop new features for a post-flight data analysis application. Our team operated with Agile methodologies. Languages used were JavaScript, Java and MySQL.",
+		"logo_image": "../images/logos/jeppesen_logo.png"
+	},
+	{
+		"organisation": "ETS Aviation",
+		"start": "January 2013",
+		"end": "June 2014 (Acquired by Jeppesen UK)",
+		"title": "Software Development Engineer",
+		"location": "Bristol, UK",
+		"description": "ETS Aviation was a company providing cost saving solutions for airlines, helping them reduce their fuel consumption and comply with emission regulations. My primary role was to develop data ingestion software. Languages used were JavaScript, PHP and MySQL.\n\nOne task required the migration of our codebase to Git and the training of team members in using the new version control system.",
+		"logo_image": "../images/logos/ets_aviation_logo.jpg"
+	},
+	{
+		"organisation": "Better Brief",
+		"start": "October 2011",
+		"end": "December 2012",
+		"title": "Web Developer",
+		"location": "London, UK",
+		"description": "Better Brief was a firm specialising in bespoke websites for both small and large businesses. My role was to maintain the websites of existing clients and to work with the team in developing websites for new clients. Languages used were JavaScript, PHP and MySQL.",
+		"logo_image": "../images/logos/better_brief_logo.png"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{ "name": "JavaScript / Typescript", "libraries": [{ "name": "React" }, { "name": "Material-UI" }, { "name": "Webpack" }, { "name": "Redux" }] },
+	{ "name": "GraphQL", "libraries": [{ "name": "Relay" }, { "name": "Apollo Client" }] },
+	{ "name": "Java", "libraries": [{ "name": "Spring" }, { "name": "JUnit" }] },
+	{ "name": "Groovy", "libraries": [{ "name": "Spock" }] },
+	{ "name": "MySQL", "libraries": [] },
+	{ "name": "PHP", "libraries": [{ "name": "Magento" }, { "name": "Silverstripe" }, { "name": "SugarCRM" }] }
+]

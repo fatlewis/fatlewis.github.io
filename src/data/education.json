@@ -1,0 +1,18 @@
+[{
+	"institution": "University of Bristol",
+	"qualification": "BSc Mathematics",
+	"location": "Bristol, UK",
+	"description": "My qualification involved the study of many Computer Science units such as Cryptography, Data Structures & Algorithms, Complexity Theory and Web Technologies.\n\nThe final year project I chose required the building of an Automatic Music Transcription application in Java, able to take analog monophonic melodies and convert them into a MIDI output.",
+	"modules": []
+},
+{
+	"institution": "Alleyn's School",
+	"qualification": "A-Level",
+	"location": "London, UK",
+	"description": null,
+	"modules": [
+		{ "subject": "Computing", "grade": "A" },
+		{ "subject": "Mathematics", "grade": "A" },
+		{ "subject": "Further Mathematics", "grade": "B" }
+	]
+}]
