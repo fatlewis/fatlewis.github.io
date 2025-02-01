@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
+import { useLocation } from "@reach/router";
 
 const BurgerMenuIcon = () => (
 	<svg
@@ -16,12 +17,15 @@ const BurgerMenuIcon = () => (
           </svg>
 );
 
-const NavItems: React.FC = () => (
-	<>
-		<li><Link to="/">About Me</Link></li>
-		<li><Link to="/my-work">My Work</Link></li>
-	</>
-);
+const NavItems: React.FC = () => {
+	const { pathname } = useLocation();
+	return (
+		<>
+			<li className="px-2"><Link className={`${pathname == "/" && "bg-base-100"}`} to="/">About Me</Link></li>
+			<li className="px-2"><Link className={`${pathname == "/my-work/" && "bg-base-100"}`}to="/my-work">My Work</Link></li>
+		</>
+	);
+}
 
 const NavBar: React.FC = ({ children }) => {
 	return (
