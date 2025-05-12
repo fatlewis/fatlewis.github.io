@@ -29,8 +29,8 @@ const EmploymentAccordion = () => {
 							<p className="font-semibold">{employment.organisation}</p>
 						</div>
 						<div>
-							<p className="text-sm">{employment.title}</p>
-							<p className="text-xs">{employment.start} - {employment.end}</p>
+							<p className="text-sm text-right">{employment.title}</p>
+							<p className="text-xs text-right">{employment.start} - {employment.end}</p>
 						</div>
 					</div>
 					<div className="collapse-content">
