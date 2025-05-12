@@ -30,7 +30,7 @@
 	{
 		"organisation": "ETS Aviation",
 		"start": "January 2013",
-		"end": "June 2014 (Acquired by Jeppesen UK)",
+		"end": "June 2014",
 		"title": "Software Development Engineer",
 		"location": "Bristol, UK",
 		"description": "ETS Aviation was a company providing cost saving solutions for airlines, helping them reduce their fuel consumption and comply with emission regulations. My primary role was to develop data ingestion software. Languages used were JavaScript, PHP and MySQL.\n\nOne task required the migration of our codebase to Git and the training of team members in using the new version control system.",
