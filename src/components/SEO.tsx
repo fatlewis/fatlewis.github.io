@@ -12,7 +12,10 @@ const SEO = ({ title }) => {
 		}
 	`);
 	return (
-		<title>{title} | {data.site.siteMetadata.title}</title>
+		<>
+			<html lang="en" />
+			<title>{title} | {data.site.siteMetadata.title}</title>
+		</>
 	);
 };
 

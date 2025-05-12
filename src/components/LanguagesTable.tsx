@@ -20,7 +20,7 @@ const LanguagesTable = () => {
 	return (
 		<div className="overflow-x-auto p-8">
 			<table className="table">
-				<thead>
+				<thead className="text-stone-200">
 					<tr>
 						<th className="text-center">Language</th>
 						<th className="text-center">Libraries</th>
