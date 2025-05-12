@@ -29,6 +29,8 @@ const CompaniesGrid = () => {
 			{allEmploymentJson.nodes.map(node => (
 				<div key={node.id} className="w-full sm:w-1/2 lg:w-4/12 px-4 py-4">
 					<div className="card bg-neutral shadow-xl">
+						{/* DO NOT DELETE: The below component is included to force gatsby to include the bg-white class in the bundle. */}
+						{/*<div className="bg-white"></div>*/}
 						<figure className={`bg-${getBgColor(node)} dark:bg-${getBgColor(node)} px-16 py-8 min-h-32`}>
 							<GatsbyImage image={getImage(node.logo_image)} alt={`${node.organisation} Logo`} height={32} />
 						</figure>
